@@ -1,2 +1,2 @@
-[gallery.html](./gallery.html)
+[index.html](./index.html)
 # OUTPUT
